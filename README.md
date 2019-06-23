@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
-
+This is the descirption that was edited
 ## What it does
 
-FEATURES PLACEHOLDER
+This is the edited feature's placeholder
 
 ## Getting started
 
